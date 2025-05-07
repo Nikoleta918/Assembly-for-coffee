@@ -1,6 +1,4 @@
 /* Coffee Selection in ARM Assembly
- * Author: [Your Name]
- * Date: [Date]
  * Description: Simulates a coffee selection process using inline ARM assembly.
  */
 
